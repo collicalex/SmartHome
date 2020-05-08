@@ -1,0 +1,11 @@
+- Manager box  power ON/OFF
+- Manage volume+ volume-
+- Test DYDNS to retrieve something?
+- Retrieve IP from MAC address?
+- Livebox mapping : télécommande mapping
+- record TV image via CAM to add intelligence
+- Search in Plex APP
+- Search in Youtube APP
+- Search in Amazone prime video app
+
+BUG: TV POWER ON
